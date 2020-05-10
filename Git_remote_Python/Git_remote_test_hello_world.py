@@ -7,3 +7,4 @@ additional comment
 
 
 print ('Om ringaungvungganapathiye namaha...........Om Nama Shivaya')
+print ("Om Namo Agathisa")
